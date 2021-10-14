@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Reyhane
+- 🌱 I’m currently learning Python
