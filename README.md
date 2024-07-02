@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="reyghorbani" /> </p>
 
 - I am a PhD student in Chemical Engineering at University of California, Riverside, where I have the privilege of being supervised by Professor [Ian Wheeldon](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=ADvvggYAAAAJ&view_op=list_works&sortby=pubdate])
-. My research is further enhanced by significant collaborations with Professor Stefano Lonardi at University of California, Riverside. **Revolutionizing Cross-Species Screening via CRISPR-Cas9 technology**
+. My research is further enhanced by significant collaborations with Professor [Stefano Lonardi](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=T1tFq2MAAAAJ&view_op=list_works&sortby=pubdate]) at University of California, Riverside. **Revolutionizing Cross-Species Screening via CRISPR-Cas9 technology**
 
 - 💬 Ask me about **Conjugated systems for drug delivery, Modeling of Biotechnology processes, Python for Chemical Engineers, Simulation by BIOVIA Materials Studio**
 
