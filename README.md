@@ -1,11 +1,11 @@
 [![MasterHead](https://images.immediate.co.uk/production/volatile/sites/4/2019/12/GettyImages-543487956-edit-57a87fb.jpg?quality=90&resize=460,306)(https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Reyhane Ghorbani Nia</h1>
-<h3 align="center">A PhD studnet in Chemical Engineering at UCR </h3>
+<h1 align="center">Reyhane Ghorbani Nia</h1>
+<h3 align="center"> PhD studnet in Chemical Engineering at UCR </h3>
 <img align="right" alt="Coding" width="400" src="https://images.immediate.co.uk/production/volatile/sites/4/2019/12/GettyImages-543487956-edit-57a87fb.jpg?quality=90&resize=460,306".
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="reyghorbani" /> </p>
 
-- 🔭 I’m currently working on **Revolutionizing Cross-Species Screening via CRISPR-Cas9 technology**
+- I’m currently working on **Revolutionizing Cross-Species Screening via CRISPR-Cas9 technology**
 
 - 💬 Ask me about **Conjugated systems for drug delivery, Modeling of Biotechnology processes, Python for Chemical Engineers, Simulation by BIOVIA Materials Studio**
 
