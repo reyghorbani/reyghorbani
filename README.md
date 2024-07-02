@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="reyghorbani" /> </p>
 
-- 🔭 I’m currently working on **Liposomal Drug Delivery Systems for Cancer Therapy**
+- 🔭 I’m currently working on **Revolutionizing Cross-Species Screening via CRISPR-Cas9 technology**
 
 - 💬 Ask me about **Conjugated systems for drug delivery, Modeling of Biotechnology processes, Python for Chemical Engineers, Simulation by BIOVIA Materials Studio**
 
