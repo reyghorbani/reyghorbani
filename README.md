@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="reyghorbani" /> </p>
 
-- I am a second-year PhD student in Chemical Engineering at University of California, Riverside, where I have the privilege of being supervised by Professor [Ian Wheeldon](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=ADvvggYAAAAJ&view_op=list_works&sortby=pubdate]).My research is further enhanced by significant collaborations with Professor [Stefano Lonardi](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=T1tFq2MAAAAJ&view_op=list_works&sortby=pubdate]) at University of California, Riverside. **Revolutionizing Cross-Species Screening via CRISPR-Cas9 technology**
+- I am a second-year PhD student in Chemical Engineering at University of California, Riverside, where I have the privilege of being supervised by Professor [Ian Wheeldon](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=ADvvggYAAAAJ&view_op=list_works&sortby=pubdate]).My research is further enhanced by significant collaborations with Professor [Stefano Lonardi](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=T1tFq2MAAAAJ&view_op=list_works&sortby=pubdate]) at University of California, Riverside.
 
-- My research generally focuses on Genetic engineering, Metabolic Engineering, Synthetic Biology and CRISPR/Cas9.
+- My research generally focuses on Cross-Species Screening via CRISPR-Cas9 technology, Genetic engineering, Metabolic Engineering, Synthetic Biology. 
 **Conjugated systems for drug delivery, Modeling of Biotechnology processes, Python for Chemical Engineers, Simulation by BIOVIA Materials Studio**
 
 - 📫 How to reach me **reyhane.ghorbani99@gmail.com**
