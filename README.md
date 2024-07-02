@@ -12,9 +12,12 @@
 
 - I am a Graduate Research Assistant at University of California, Riverside (UCR). Before joining UCR, I obtained my Bachelor degree in chemical engineering from University of Tehran.
   
-- 📫 How to reach me **reyhane.ghorbani99@gmail.com**
+- [Email](mailto:reyhane.ghorbani99@gmail.com)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=M4qM9-YAAAAJ)
+- [GitHub](https://github.com/reyghorbani)
+- [LinkedIn](https://www.linkedin.com/in/reyhane-ghorbani-75a673286/?trk=people-guest_people_search-card)
+- [CV](https://johndoe.com/cv.pdf)
 
-- ⚡ Fun fact **I enjoy and collect great music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
