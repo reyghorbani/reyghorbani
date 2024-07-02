@@ -1,6 +1,6 @@
 [![MasterHead](https://images.immediate.co.uk/production/volatile/sites/4/2019/12/GettyImages-543487956-edit-57a87fb.jpg?quality=90&resize=460,306)(https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Reyhane Ghorbani Nia</h1>
-<h3 align="center">A Chemical Engineer From Iran</h3>
+<h3 align="center">A PhD studnet in Chemical Engineer at UCR F</h3>
 <img align="right" alt="Coding" width="400" src="https://images.immediate.co.uk/production/volatile/sites/4/2019/12/GettyImages-543487956-edit-57a87fb.jpg?quality=90&resize=460,306".
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="reyghorbani" /> </p>
