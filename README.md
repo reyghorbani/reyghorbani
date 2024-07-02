@@ -10,7 +10,7 @@
 - My research generally focuses on Cross-Species Screening via CRISPR-Cas9 technology, Genetic engineering, Metabolic Engineering and Synthetic Biology. 
 **Conjugated systems for drug delivery, Modeling of Biotechnology processes, Python for Chemical Engineers, Simulation by BIOVIA Materials Studio**
 
-- I am a Graduate Research Assistant at University of California Riverside (UCR). Before joining UCR, I obtained my Bachelor degree in chemical engineering from University of Tehran.
+- I am a Graduate Research Assistant at University of California, Riverside (UCR). Before joining UCR, I obtained my Bachelor degree in chemical engineering from University of Tehran.
   
 - 📫 How to reach me **reyhane.ghorbani99@gmail.com**
 
