@@ -1,6 +1,6 @@
 <h1 align="center">Reyhane Ghorbani Nia</h1>
 <h3 align="center"> PhD studnet in Chemical Engineering at UCR </h3>
-<img align="right" alt="Coding" width="400" src="https://images.immediate.co.uk/production/volatile/sites/4/2019/12/GettyImages-543487956-edit-57a87fb.jpg?quality=90&resize=460,306".
+<img align="right" width="400" src="https://images.immediate.co.uk/production/volatile/sites/4/2019/12/GettyImages-543487956-edit-57a87fb.jpg?quality=90&resize=460,306".
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="reyghorbani" /> </p>
 
