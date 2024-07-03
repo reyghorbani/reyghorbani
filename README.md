@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Research:</h3>
-- My primary reasrch is applied bio-computational methods focusing on cross-species screening via CRISPR-Cas9 technology.
+- My primary research is applied bio-computational models, focusing on cross-species screening via CRISPR-Cas9 technology. Previously, I have worked on variuos topics including: Liposoms as potential drug delivery systems, and Molecular Dynamics Simulations in predicting solution properties. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
