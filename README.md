@@ -1,11 +1,11 @@
 <h1 align="center">Reyhane Ghorbani Nia</h1>
 <h3 align="center"> PhD studnet in Chemical Engineering at UCR </h3>
 <src="https://images.immediate.co.uk/production/volatile/sites/4/2019/12/GettyImages-543487956-edit-57a87fb.jpg?quality=90&resize=460,306".
-
+<p align="justify">
 I am a second-year PhD student in Chemical Engineering at University of California, Riverside, where I have the privilege of being supervised by Professor [Ian Wheeldon](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=ADvvggYAAAAJ&view_op=list_works&sortby=pubdate]).My research is further enhanced by significant collaborations with Professor [Stefano Lonardi](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=T1tFq2MAAAAJ&view_op=list_works&sortby=pubdate]) at University of California, Riverside.</p>
-
+<p align="justify">
 My research generally focuses on Cross-Species Screening via CRISPR-Cas9 technology, Genetic engineering, Metabolic Engineering and Synthetic Biology.</p>
-
+<p align="justify">
 I am a Graduate Research Assistant at University of California, Riverside (UCR). Before joining UCR, I obtained my Bachelor degree in chemical engineering from University of Tehran.</p>
   
 - [Email](mailto:reyhane.ghorbani99@gmail.com)/[Google Scholar](https://scholar.google.com/citations?hl=en&user=M4qM9-YAAAAJ)/[GitHub](https://github.com/reyghorbani)/[LinkedIn](https://www.linkedin.com/in/reyhane-ghorbani-75a673286/?trk=people-guest_people_search-card)/
