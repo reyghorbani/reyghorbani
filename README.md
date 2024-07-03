@@ -15,7 +15,7 @@
 - [Email](mailto:reyhane.ghorbani99@gmail.com)/[Google Scholar](https://scholar.google.com/citations?hl=en&user=M4qM9-YAAAAJ)/[GitHub](https://github.com/reyghorbani)/[LinkedIn](https://www.linkedin.com/in/reyhane-ghorbani-75a673286/?trk=people-guest_people_search-card)/
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Research:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/reyhane ghorbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyhane ghorbani" height="30" width="40" /></a>
 <a href="https://instagram.com/reyhane_gh.78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reyhane_gh.78" height="30" width="40" /></a>
