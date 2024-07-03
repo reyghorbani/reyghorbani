@@ -12,7 +12,7 @@ I am a Graduate Research Assistant at University of California, Riverside (UCR).
 
 
 <h3 align="left">Research:</h3>
-- My primary research area lies in the development and application of bio-computational models, with a particular emphasis on cross-species screening facilitated by CRISPR-Cas9 technology. This innovative approach aims to enhance our understanding of genetic interactions across different species, potentially leading to significant advancements in biotechnology. My work leverages state-of-the-art computational techniques to design and analyze these genetic screens, ensuring high accuracy and efficiency.
+- My primary research area lies in the development and application of bio-computational models, with a particular emphasis on cross-species screening facilitated by CRISPR-Cas9 technology. This innovative approach aims to enhance our understanding of genetic interactions across different species, potentially leading to significant advancements in biotechnology. My work leverages state-of-the-art computational techniques to design and analyze these genetic screens, ensuring high accuracy and efficiency.</p>
 
 
 -Beyond my current focus, my research experience encompasses several key areas in molecular biology. I have worked with liposomes as drug delivery systems, aiming to enhance their ability to target specific cells, thereby increasing efficacy and minimizing side effects. Additionally, my work with Molecular Dynamics (MD) simulations has been pivotal in predicting solution properties at the molecular level, aiding in the understanding of biological molecule behavior in various environments.
