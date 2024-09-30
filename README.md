@@ -8,7 +8,7 @@ I am a research assistant in Chemical Engineering at University of California, R
 My research generally focuses on Cross-Species Screening via CRISPR-Cas9 technology, Genetic engineering, Metabolic Engineering and Synthetic Biology.</p>
 
 <p align="justify">
-I am a Graduate Research Assistant at University of California, Riverside (UCR). Before joining UCR, I obtained my Bachelor degree in chemical engineering from University of Tehran.</p>
+Before joining UCR, I obtained my Bachelor degree in chemical engineering from University of Tehran.</p>
   
 - [Email](mailto:reyhane.ghorbani99@gmail.com)/[Google Scholar](https://scholar.google.com/citations?hl=en&user=M4qM9-YAAAAJ)/[GitHub](https://github.com/reyghorbani)/[LinkedIn](https://www.linkedin.com/in/reyhane-ghorbani-75a673286/?trk=people-guest_people_search-card)/
 
