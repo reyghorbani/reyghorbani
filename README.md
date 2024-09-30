@@ -1,5 +1,5 @@
 <h1 align="center">Reyhane Ghorbani Nia</h1>
-<h3 align="center"> Graduate studnet in Chemical Engineering at UCR </h3>
+<h3 align="center"> Research Assistant in Chemical and Enviromental Engineering at UCR </h3>
 <src="https://images.immediate.co.uk/production/volatile/sites/4/2019/12/GettyImages-543487956-edit-57a87fb.jpg?quality=90&resize=460,306".
   
 I am a research assistant in Chemical Engineering at University of California, Riverside, where I have the privilege of being supervised by Professor [Ian Wheeldon](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=ADvvggYAAAAJ&view_op=list_works&sortby=pubdate]).My research is further enhanced by significant collaborations with Professor [Stefano Lonardi](https://scholar.google.com/citations?user=[https://scholar.google.com/citations?hl=en&user=T1tFq2MAAAAJ&view_op=list_works&sortby=pubdate]) at University of California, Riverside.</p>
